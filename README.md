@@ -1,1 +1,1 @@
-# CampusBox-UI
+Mock ups for CampusBox mobile and desktop
